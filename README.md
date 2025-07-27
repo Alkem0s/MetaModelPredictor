@@ -2,6 +2,10 @@
 
 A project and paper about predicting the performance of various machine learning models—linear, non-linear, and tree-based—based on key characteristics of 100s of open-source classification datasets.
 
+**Published in:** Lecture Notes in Networks and Systems (Springer)  
+**Paper Link:** [https://doi.org/10.1007/978-3-031-97992-7_17](https://doi.org/10.1007/978-3-031-97992-7_17)  
+**Springer Chapter:** [https://link.springer.com/chapter/10.1007/978-3-031-97992-7_17](https://link.springer.com/chapter/10.1007/978-3-031-97992-7_17)
+
 ---
 
 ## Overview
