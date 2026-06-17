@@ -124,11 +124,11 @@ The stacking regressor was evaluated on both the **Original Harvested Dataset** 
 
 We compare the test metrics (MSE, RMSE, $R^2$) across the models, highlighting the impact of synthetic data integration:
 
-![Performance Metric Comparison Chart](separate_metrics_comparison.png)
+![Performance Metric Comparison Chart](./results/separate_metrics_comparison.png)
 
 The difference in prediction error and variance between models trained on the original dataset and models expanded with GMM synthetic data is summarized in the impact heatmap:
 
-![Synthetic Data Impact Heatmap](synthetic_data_impact_heatmap.png)
+![Synthetic Data Impact Heatmap](./results/synthetic_data_impact_heatmap.png)
 
 ---
 
@@ -138,7 +138,7 @@ Feature importances show which dataset metadata characteristics are most influen
 
 | Linear Models | Nonlinear Models | Tree-based Models |
 | :---: | :---: | :---: |
-| ![Linear Models Feature Importance](feature_importance_linear_performance.png) | ![Nonlinear Models Feature Importance](feature_importance_nonlinear_performance.png) | ![Tree-based Models Feature Importance](feature_importance_tree_performance.png) |
+| ![Linear Models Feature Importance](./results/feature_importance_linear_performance.png) | ![Nonlinear Models Feature Importance](./results/feature_importance_nonlinear_performance.png) | ![Tree-based Models Feature Importance](./results/feature_importance_tree_performance.png) |
 
 *Key Takeaways:*
 *   **Class Imbalance** and **Number of Classes** are highly critical across all models, directly influencing classifier behavior.
@@ -153,7 +153,6 @@ The following scatter plots visualize the actual macro performance scores vs. th
 
 | Model Category | Original Dataset | Synthetic Dataset |
 | :---: | :---: | :---: |
-| **Linear** | ![Actual vs Predicted Linear (Original)](actual_vs_predicted_linear_performance_Original%20Dataset.png) | ![Actual vs Predicted Linear (Synthetic)](actual_vs_predicted_linear_performance_Synthetic%20Dataset.png) |
-| **Nonlinear** | ![Actual vs Predicted Nonlinear (Original)](actual_vs_predicted_nonlinear_performance_Original%20Dataset.png) | ![Actual vs Predicted Nonlinear (Synthetic)](actual_vs_predicted_nonlinear_performance_Synthetic%20Dataset.png) |
-| **Tree-based** | ![Actual vs Predicted Tree-based (Original)](actual_vs_predicted_tree_performance_Original%20Dataset.png) | ![Actual vs Predicted Tree-based (Synthetic)](actual_vs_predicted_tree_performance_Synthetic%20Dataset.png) |
-
+| **Linear** | ![Actual vs Predicted Linear (Original)](./results/actual_vs_predicted_linear_performance_Original%20Dataset.png) | ![Actual vs Predicted Linear (Synthetic)](./results/actual_vs_predicted_linear_performance_Synthetic%20Dataset.png) |
+| **Nonlinear** | ![Actual vs Predicted Nonlinear (Original)](./results/actual_vs_predicted_nonlinear_performance_Original%20Dataset.png) | ![Actual vs Predicted Nonlinear (Synthetic)](./results/actual_vs_predicted_nonlinear_performance_Synthetic%20Dataset.png) |
+| **Tree-based** | ![Actual vs Predicted Tree-based (Original)](./results/actual_vs_predicted_tree_performance_Original%20Dataset.png) | ![Actual vs Predicted Tree-based (Synthetic)](./results/actual_vs_predicted_tree_performance_Synthetic%20Dataset.png) |
