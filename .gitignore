@@ -2,12 +2,5 @@
 backup/
 catboost_info/
 super_model_datasets/
-results/
-data.csv
 example.txt
-super_model_processed_dataset.csv
-super_model_raw_dataset.csv
-super_model_synthetic_dataset.csv
-super_model_raw_dataset_openml.csv
-super_model_raw_dataset_kaggle.csv
 visualizer.py
