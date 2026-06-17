@@ -1524,10 +1524,10 @@ class SuperModelDatasetCollector:
 
 if __name__ == '__main__':
     collector = SuperModelDatasetCollector(
-        num_datasets=300,
+        num_datasets=500,
     )
     
-    weights = {'openml': 0.0, 'kaggle': 0.0, 'local': 0.0}
+    weights = {'openml': 1.0, 'kaggle': 0.0, 'local': 0.0}
     datasets = collector.collect_suitable_datasets(weights)
     
     datasets.to_csv('super_model_raw_data.csv', index=False)

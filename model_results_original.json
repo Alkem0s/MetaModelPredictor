@@ -65,44 +65,44 @@
         },
         "TopFeatures": [
             {
-                "Feature": "num__num_classes",
-                "Importance": 0.12670355764680877
+            "Feature": "num_classes",
+            "Importance": 0.12670355764680877
             },
             {
-                "Feature": "num__class_imbalance",
-                "Importance": 0.09213560565146274
+            "Feature": "class_imbalance",
+            "Importance": 0.09213560565146274
             },
             {
-                "Feature": "num__avg_feature_correlation",
-                "Importance": 0.08475376838745148
+            "Feature": "avg_feature_correlation",
+            "Importance": 0.08475376838745148
             },
             {
-                "Feature": "num__num_features_original",
-                "Importance": 0.07267611935289438
+            "Feature": "num_features_original",
+            "Importance": 0.07267611935289438
             },
             {
-                "Feature": "num__max_correlation",
-                "Importance": 0.07197580444373304
+            "Feature": "max_correlation",
+            "Importance": 0.07197580444373304
             },
             {
-                "Feature": "num__outlier_fraction",
-                "Importance": 0.07055443051515269
+            "Feature": "outlier_fraction",
+            "Importance": 0.07055443051515269
             },
             {
-                "Feature": "num__intrinsic_dimensionality",
-                "Importance": 0.06935945983784314
+            "Feature": "intrinsic_dimensionality",
+            "Importance": 0.06935945983784314
             },
             {
-                "Feature": "num__num_features_after_preprocessing",
-                "Importance": 0.0688218439598678
+            "Feature": "num_features_after_preprocessing",
+            "Importance": 0.0688218439598678
             },
             {
-                "Feature": "num__variance_explained",
-                "Importance": 0.06295655913921315
+            "Feature": "variance_explained",
+            "Importance": 0.06295655913921315
             },
             {
-                "Feature": "num__num_samples_after_preprocessing",
-                "Importance": 0.054261906327228854
+            "Feature": "num_samples_after_preprocessing",
+            "Importance": 0.054261906327228854
             }
         ],
         "SamplePredictions": [
@@ -482,44 +482,44 @@
         },
         "TopFeatures": [
             {
-                "Feature": "num__num_classes",
-                "Importance": 0.12110561495144327
+            "Feature": "num_classes",
+            "Importance": 0.12110561495144327
             },
             {
-                "Feature": "num__class_imbalance",
-                "Importance": 0.11443649153283801
+            "Feature": "class_imbalance",
+            "Importance": 0.11443649153283801
             },
             {
-                "Feature": "num__pca_variance",
-                "Importance": 0.10644579537272111
+            "Feature": "pca_variance",
+            "Importance": 0.10644579537272111
             },
             {
-                "Feature": "num__avg_feature_correlation",
-                "Importance": 0.0981616780295063
+            "Feature": "avg_feature_correlation",
+            "Importance": 0.0981616780295063
             },
             {
-                "Feature": "num__intrinsic_dimensionality",
-                "Importance": 0.07473079445427067
+            "Feature": "intrinsic_dimensionality",
+            "Importance": 0.07473079445427067
             },
             {
-                "Feature": "num__variance_explained",
-                "Importance": 0.06908724558133893
+            "Feature": "variance_explained",
+            "Importance": 0.06908724558133893
             },
             {
-                "Feature": "num__outlier_fraction",
-                "Importance": 0.06363939095941117
+            "Feature": "outlier_fraction",
+            "Importance": 0.06363939095941117
             },
             {
-                "Feature": "num__max_correlation",
-                "Importance": 0.053607413254775076
+            "Feature": "max_correlation",
+            "Importance": 0.053607413254775076
             },
             {
-                "Feature": "num__num_features_after_preprocessing",
-                "Importance": 0.05250769267304374
+            "Feature": "num_features_after_preprocessing",
+            "Importance": 0.05250769267304374
             },
             {
-                "Feature": "num__num_samples_after_preprocessing",
-                "Importance": 0.04886165021525071
+            "Feature": "num_samples_after_preprocessing",
+            "Importance": 0.04886165021525071
             }
         ],
         "SamplePredictions": [
@@ -899,44 +899,44 @@
         },
         "TopFeatures": [
             {
-                "Feature": "num__intrinsic_dimensionality",
-                "Importance": 0.10571217301051618
+            "Feature": "intrinsic_dimensionality",
+            "Importance": 0.10571217301051618
             },
             {
-                "Feature": "num__num_samples_original",
-                "Importance": 0.08257878849429769
+            "Feature": "num_samples_original",
+            "Importance": 0.08257878849429769
             },
             {
-                "Feature": "num__num_samples_after_preprocessing",
-                "Importance": 0.0806986795013974
+            "Feature": "num_samples_after_preprocessing",
+            "Importance": 0.0806986795013974
             },
             {
-                "Feature": "num__class_imbalance",
-                "Importance": 0.07913321420657354
+            "Feature": "class_imbalance",
+            "Importance": 0.07913321420657354
             },
             {
-                "Feature": "num__max_correlation",
-                "Importance": 0.07828444944388235
+            "Feature": "max_correlation",
+            "Importance": 0.07828444944388235
             },
             {
-                "Feature": "num__num_classes",
-                "Importance": 0.07630463623120143
+            "Feature": "num_classes",
+            "Importance": 0.07630463623120143
             },
             {
-                "Feature": "num__avg_feature_correlation",
-                "Importance": 0.07596277988434995
+            "Feature": "avg_feature_correlation",
+            "Importance": 0.07596277988434995
             },
             {
-                "Feature": "num__num_features_original",
-                "Importance": 0.07218981167332156
+            "Feature": "num_features_original",
+            "Importance": 0.07218981167332156
             },
             {
-                "Feature": "num__num_features_after_preprocessing",
-                "Importance": 0.06889702985574177
+            "Feature": "num_features_after_preprocessing",
+            "Importance": 0.06889702985574177
             },
             {
-                "Feature": "num__outlier_fraction",
-                "Importance": 0.06647027317905073
+            "Feature": "outlier_fraction",
+            "Importance": 0.06647027317905073
             }
         ],
         "SamplePredictions": [
